@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virgee.Domain", "Virgee.Domain\Virgee.Domain.csproj", "{39F24DFB-351B-44B0-8145-BD4545285A49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virgee.Domain.Tests", "Virgee.Domain.Tests\Virgee.Domain.Tests.csproj", "{97D9E278-16BC-48A9-A9C7-B47E84D3134F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39F24DFB-351B-44B0-8145-BD4545285A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F24DFB-351B-44B0-8145-BD4545285A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F24DFB-351B-44B0-8145-BD4545285A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F24DFB-351B-44B0-8145-BD4545285A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D9E278-16BC-48A9-A9C7-B47E84D3134F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D9E278-16BC-48A9-A9C7-B47E84D3134F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D9E278-16BC-48A9-A9C7-B47E84D3134F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D9E278-16BC-48A9-A9C7-B47E84D3134F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

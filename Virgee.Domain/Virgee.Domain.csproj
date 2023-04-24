@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageId>Virgee.Domain</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Ariel de Llano</Authors>
+        <Company>Virgee LLC</Company>
+        <PackageDescription>Base classes for domain objects</PackageDescription>
+        <RepositoryUrl>https://github.com/arieldellano/Virgee.Domain</RepositoryUrl>
+    </PropertyGroup>
+</Project>
