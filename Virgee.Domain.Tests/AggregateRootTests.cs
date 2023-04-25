@@ -2,7 +2,7 @@
 
 public sealed class AggregateRootTests
 {
-    private class DummyEntity : AggregateRoot<Guid>
+    private sealed class DummyEntity : AggregateRoot<Guid>
     {
         public DummyEntity(Guid id) : base(id)
         {

@@ -2,7 +2,7 @@ namespace Virgee.Domain.Tests;
 
 public sealed class EntityTests
 {
-    private class DummyEntity : Entity<Guid>
+    private sealed class DummyEntity : Entity<Guid>
     {
         public DummyEntity(Guid id) : base(id)
         {
